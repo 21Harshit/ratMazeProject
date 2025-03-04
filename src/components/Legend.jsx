@@ -49,7 +49,7 @@ export default function Legend() {
 					This algorithm is built in way that the rat can only make new moves in
 					only 'down' and 'right' directions.{' '}
 					<a
-						href="https://github.com/prtvi/rat-in-a-maze"
+						href="https://github.com/21Harshit/ratMazeProject"
 						target="_blank"
 						rel="noreferrer"
 					>
